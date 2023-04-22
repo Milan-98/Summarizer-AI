@@ -1,6 +1,4 @@
-Sure, here's a more detailed README file for the Summarizer-AI project:
 
-```
 # Summarizer-AI
 
 Summarizer-AI is a web application that uses machine learning algorithms to summarize long pieces of text into shorter, more manageable paragraphs. It is built using React, React-Redux, and JavaScript, and the API is powered by Rapid API.

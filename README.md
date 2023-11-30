@@ -11,7 +11,7 @@ Summarizer-AI is a web application that uses machine learning algorithms to summ
 
 ## Demo
 
-Check out the live demo of the application [here](https://coruscating-mousse-34b778.netlify.app).
+Check out the live demo of the application [here](https://summarizer-ai-nu.vercel.app/).
 ## Getting Started
 
 To get started, clone the repository to your local machine and navigate to the project directory. Then, install the dependencies using `npm install`.
